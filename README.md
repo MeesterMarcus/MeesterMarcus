@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Marcus and I'm a professional web designer and software engineer. 👋
 
 <!--
 **MeesterMarcus/MeesterMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I was born and raised in San Antonio, TX and since as far back as I can remember I've always had a strong passion for all things software. I would build computers, write software, build web applications and websites, and was always up to date with the latest technology news. I went to the University of Texas at San Antonio and earned my BS in Computer Science. I've had the opportunity to work at the H-E-B corporate headquarters and for the financial technology company Fiserv. I also own and operate [Lorenzana Web Design](https://www.lorenzanadesigns.com)  where I provide a multitude of web services and digital marketing. The one thing I love about this industry is the learning never stops and the challenges are always interesting. I hope my insight can help other professionals in the industry!
