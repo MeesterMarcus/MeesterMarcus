@@ -1,4 +1,4 @@
-### Hello! My name is Marcus and I'm a professional web designer and software engineer. 👋
+### Hello! My name is Marcus and I'm a professional software engineer. 👋
 
 <!--
 **MeesterMarcus/MeesterMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
