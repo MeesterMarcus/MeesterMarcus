@@ -17,20 +17,9 @@ Here are some ideas to get you started:
 
 I was born and raised in San Antonio, TX, and as far back as I can remember, I've always had a strong passion for all things software. I would build computers, write software, build web applications and websites, and was always up to date with the latest technology news. I went to the University of Texas at San Antonio and earned my BS in Computer Science. I've had the opportunity to work at the H-E-B corporate headquarters, the financial technology company Fiserv, a technology consulting company called Terazo, and now with a modern warranty software company called Extend Inc. The one thing I love about this industry is that the learning never stops, and the challenges are always interesting. I hope my insight can help other professionals in the industry!
 
-Follow me on:
+Connect with me:
 
 <a href="https://www.linkedin.com/in/lorenzanamarcus/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
-<a href="https://www.instagram.com/lorenzana_web">
-   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-</a>
 
-<a href="https://www.facebook.com/lorenzanaweb">
-   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
-</a>
-
-<a href="https://twitter.com/lorenzana_web">
-   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-</a>
