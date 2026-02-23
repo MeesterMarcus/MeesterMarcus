@@ -21,7 +21,7 @@ Built for lifters who care about progressive overload without distractions.
 
 ---
 
-### 🌙 <a href="https://restwisesleep.com/">RestWise</>
+### 🌙 <a href="https://restwisesleep.com/">RestWise</a>
 A structured sleep program focused on reducing sleep anxiety and breaking the insomnia cycle.
 
 - CBT-I and ACT-inspired principles  
