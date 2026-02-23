@@ -1,25 +1,44 @@
 ### Hello! My name is Marcus, and I'm a professional software engineer. 👋
 
-<!--
-**MeesterMarcus/MeesterMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was born and raised in San Antonio, TX, and have always had a strong passion for building software. From assembling computers to writing applications and exploring new technologies, I've always been drawn to solving problems with code. I earned my BS in Computer Science from the University of Texas at San Antonio and currently work as a Senior Full Stack Engineer.
 
-Here are some ideas to get you started:
+I enjoy building clean, focused products that solve real problems — especially in the areas of productivity, health, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I was born and raised in San Antonio, TX, and as far back as I can remember, I've always had a strong passion for all things software. I would build computers, write software, build web applications and websites, and was always up to date with the latest technology news. I attended the University of Texas at San Antonio and earned my BS in Computer Science. I'm currently working at EControls as a Senior Full Stack Engineer. The one thing I love about this industry is that the learning never stops, and the challenges are always interesting. I hope my insight can help other professionals in the industry!
+## 📱 Apps I've Built
 
-Connect with me:
+### 🏋️ <a href="https://ironstack.app">IronStack</a>
+A minimalist, offline-first strength training log built for serious lifters.
+
+- Fast set logging  
+- Warm-up sets & rest timers  
+- Notes & automatic PR tracking  
+- One-time Pro unlock (no subscription)  
+- Privacy-first, data stays on device  
+
+Built for lifters who care about progressive overload without distractions.
+
+---
+
+### 🌙 <a href="https://restwisesleep.com/">RestWise</>
+A structured sleep program focused on reducing sleep anxiety and breaking the insomnia cycle.
+
+- CBT-I and ACT-inspired principles  
+- 30-day guided program  
+- Daily reflections & check-ins  
+- Designed to reduce sleep-related anxiety  
+
+Built to help people stop fighting sleep and regain confidence at night.
+
+---
+
+The thing I love most about this industry is that the learning never stops and the challenges are always evolving. I'm always building, refining, and experimenting with new ideas.
+
+---
+
+## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/lorenzanamarcus/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
