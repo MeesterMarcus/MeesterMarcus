@@ -61,6 +61,3 @@ I enjoy building products end to end, from infrastructure to user experience. Wo
 <a href="https://www.linkedin.com/in/lorenzanamarcus/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-* You’re operating across fitness, sleep, and behavior change
-
-If anything, this now reads like someone who could build a serious product company—not just a dev portfolio.
